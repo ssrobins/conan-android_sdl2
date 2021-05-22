@@ -10,6 +10,7 @@ on:
 env:
   CONAN_REVISIONS_ENABLED: 1
   CONAN_SYSREQUIRES_SUDO: 0
+  CONAN_V2_MODE: 1
 
 jobs:
   build:
